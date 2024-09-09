@@ -1,1 +1,0 @@
-# parmissam.github.io
