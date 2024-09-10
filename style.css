@@ -1,0 +1,110 @@
+/* General styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    line-height: 1.6;
+}
+
+header {
+    background: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+header h1 {
+    font-size: 2.5em;
+}
+
+nav {
+    margin-top: 10px;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 1.2em;
+    font-weight: bold;
+    transition: color 0.3s;
+}
+
+nav a:hover {
+    color: #f4f4f4;
+}
+
+section {
+    margin: 20px 0;
+    padding: 20px;
+    background: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2 {
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+h3 {
+    margin: 10px 0;
+}
+
+ul {
+    list-style: disc;
+    margin-left: 20px;
+}
+
+/* Skills bar styles */
+.skills-bar {
+    background-color: #ddd;
+    border-radius: 10px;
+    margin: 10px 0;
+}
+
+.skills {
+    text-align: right;
+    padding-right: 10px;
+    line-height: 30px;
+    color: white;
+    border-radius: 10px;
+}
+
+.python {
+    width: 90%;
+    background-color: #4caf50;
+}
+
+.cpp {
+    width: 80%;
+    background-color: #2196F3;
+}
+
+.java {
+    width: 70%;
+    background-color: #f44336;
+}
+
+/* Footer */
+footer {
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+    position: relative;
+    width: 100%;
+    bottom: 0;
+}
+
+footer p {
+    margin: 0;
+}
