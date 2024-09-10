@@ -93,6 +93,7 @@ ul {
     width: 70%;
     background-color: #f44336;
 }
+
 /* Musical Journey Section */
 #music {
     margin: 50px 0;
@@ -133,7 +134,6 @@ ul {
 .gallery img:hover {
     transform: scale(1.05);
 }
-
 
 /* Footer */
 footer {
