@@ -116,12 +116,7 @@ ul {
 }
 
 /* Gallery */
-.gallery {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    grid-gap: 15px;
-    margin-top: 20px;
-}
+
 
 .gallery img {
     width: 100%;
