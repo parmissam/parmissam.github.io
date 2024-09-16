@@ -65,34 +65,6 @@ ul {
 }
 
 /* Skills bar styles */
-.skills-bar {
-    background-color: #ddd;
-    border-radius: 10px;
-    margin: 10px 0;
-}
-
-.skills {
-    text-align: right;
-    padding-right: 10px;
-    line-height: 30px;
-    color: white;
-    border-radius: 10px;
-}
-
-.python {
-    width: 90%;
-    background-color: #4caf50;
-}
-
-.cpp {
-    width: 80%;
-    background-color: #2196F3;
-}
-
-.java {
-    width: 70%;
-    background-color: #f44336;
-}
 
 
 
